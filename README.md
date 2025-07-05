@@ -14,8 +14,11 @@ This is a simple and interactive **packing list generator** built using **Python
 
 - Python 3.7+
 - Streamlit
+  
+🚀 Live Demo
+[🌐 Click here to try the app](https://travel-packing-list-2ughxrxt6yxvqhes2suzdx.streamlit.app/)
 
-## 🚀 How to Run
+🚀 How to Run
 
 1. **Download this folder**
 
